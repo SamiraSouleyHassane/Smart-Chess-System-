@@ -6,4 +6,4 @@ The project has three different components:
   - A virtual chessboard run on Raspberry pi 4. 
 
 A move on the chessboard is dectected by the Arduino Uno. This data is sent to the Raspberry pi using serial communication.
-This project is developed by Samira Souley Hassane, Tobi Akerele and Miran Manasrah for engineering senior capstone project at TrinitY College. 
+This project is developed by Samira Souley Hassane, Tobi Akerele and Miran Manasrah for engineering senior capstone project at Trinity College. 
